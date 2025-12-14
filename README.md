@@ -83,12 +83,14 @@ Run this file to execute the full pipeline.
 ## 🚀 How to Run the Project
 
 1. Ensure you have Python installed (3.9+ recommended)
-2. Install dependencies:
+2. 
+3. Install dependencies:
    ```bash
    pip install pandas
-3. Run the transformation script:
-python transform.py
-4. The cleaned dataset will be saved as: cleaned_IMDB_dataset.csv
+4. Run the transformation script:
+   ```bash
+   python transform.py
+5. The cleaned dataset will be saved as: cleaned_IMDB_dataset.csv
 
 🧹 What This Project Cleans
 
@@ -117,5 +119,3 @@ Regular Expressions
 All normalization logic is centralized in utils.py
 
 The pipeline is designed to be easily extensible
-
-Ideal as a preprocessing step for data analysis or machine learning
