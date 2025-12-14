@@ -9,7 +9,7 @@ The main goal is to standardize inconsistent values (dates, countries, genres, n
 ## 📂 Project Structure
 
 IMDB_data_normalization/
-│
+
 ├── transform.py
 ├── utils.py
 ├── countries.py
@@ -18,9 +18,6 @@ IMDB_data_normalization/
 ├── cleaned_IMDB_dataset.csv
 ├── pycache/
 └── README.md
-
-
----
 
 ## 📄 File Descriptions
 
