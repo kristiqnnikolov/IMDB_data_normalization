@@ -11,12 +11,19 @@ The main goal is to standardize inconsistent values (dates, countries, genres, n
 IMDB_data_normalization/
 
 ├── transform.py
+
 ├── utils.py
+
 ├── countries.py
+
 ├── regex_date_spanish.py
+
 ├── messy_IMDB_dataset.csv
+
 ├── cleaned_IMDB_dataset.csv
+
 ├── pycache/
+
 └── README.md
 
 ## 📄 File Descriptions
