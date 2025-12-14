@@ -94,32 +94,4 @@ Run this file to execute the full pipeline.
 4. Run the transformation script:
    ```bash
    python transform.py
-5. The cleaned dataset will be saved as: cleaned_IMDB_dataset.csv
-
-🧹 What This Project Cleans
-
-Inconsistent country names
-
-Malformed or localized dates
-
-Mixed numeric formats (votes, income, duration)
-
-Genre formatting and ordering
-
-Encoding issues in titles
-
-Missing or invalid values
-
-🛠 Technologies Used
-
-Python
-
-Pandas
-
-Regular Expressions
-
-📌 Notes
-
-All normalization logic is centralized in utils.py
-
-The pipeline is designed to be easily extensible
+5. The cleaned dataset will be saved as cleaned_IMDB_dataset.csv
